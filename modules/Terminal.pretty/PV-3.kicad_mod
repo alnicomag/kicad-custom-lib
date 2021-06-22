@@ -1,4 +1,4 @@
-(module PV-3 (layer F.Cu) (tedit 60C7F1D9)
+(module PV-3 (layer F.Cu) (tedit 60D1ED63)
   (fp_text reference REF** (at -2.032 5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -18,7 +18,7 @@
   (fp_line (start -4.064 2.794) (end -4.064 4.064) (layer F.SilkS) (width 0.2))
   (fp_line (start -4.064 4.064) (end -2.794 4.064) (layer F.SilkS) (width 0.2))
   (pad 1 smd rect (at 0 0) (size 7.5 7.5) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/smco5/GoogleDrive/TechProjects/KiCadRepo/kicad-custom-lib/modules/packages3d/PV-3.stp
+  (model ${KICAD_USER_3DMOD}/PV-3.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
