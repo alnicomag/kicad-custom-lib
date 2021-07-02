@@ -1,4 +1,4 @@
-(module RSPRO_1884617_plus_fuse (layer F.Cu) (tedit 60D1ED08)
+(module RSPRO_1884617_plus_fuse (layer F.Cu) (tedit 60DF30C6)
   (fp_text reference REF** (at -7.62 3.175) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
@@ -17,7 +17,7 @@
   (pad 1 thru_hole oval (at -2.15 0) (size 1.6 4) (drill oval 0.8 2) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 2.15 0) (size 1.6 4) (drill oval 0.8 2) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 5.85 0) (size 1.6 4) (drill oval 0.8 2) (layers *.Cu *.Mask))
-  (model ${KICAD_USER_3DMOD}/RSPRO_1884617_MiniBladeFuse.stp
+  (model ${KICAD_USER_3DMOD}/Fuse.3dshapes/RSPRO_1884617_MiniBladeFuse.step
     (offset (xyz 0 -2 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
