@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC1G27DBVR
+D Triple 3-input NOR
+F https://www.tij.co.jp/lit/ds/symlink/sn74lvc1g27.pdf?ts=1626802154306&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fja-jp%252Fp%252Fproduct%252F%253Fp%253DSN74LVC1G27DBVR%2526utm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dasc-null-null-OPN_EN-cpc-store-google-jp%2526utm_content%253DDevice%2526ds_k%253DSN74LVC1G27DBVR%2526DCM%253Dyes%2526gclid%253DCj0KCQjw6NmHBhD2ARIsAI3hrM21baLNjQLcfhIPc83U9RIsEeS57zkLszNi1ejNe7DC-2wSgBXpqdsaAiG9EALw_wcB%2526gclsrc%253Daw.ds
+$ENDCMP
+#
+#End Doc Library

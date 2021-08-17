@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP K7805-2000R3
+F https://docs.rs-online.com/fc3c/A700000006631878.pdf
+$ENDCMP
+#
+$CMP K7805-2000R3L
+F https://docs.rs-online.com/fc3c/A700000006631878.pdf
+$ENDCMP
+#
+$CMP K7812-2000R3
+F https://docs.rs-online.com/fc3c/A700000006631878.pdf
+$ENDCMP
+#
+$CMP K7812-2000R3L
+F https://docs.rs-online.com/fc3c/A700000006631878.pdf
+$ENDCMP
+#
+#End Doc Library

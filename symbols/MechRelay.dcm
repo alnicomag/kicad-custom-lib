@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP G7EB
+D Omron G7EB relay, SPST-NO, 100A
+F https://www.fa.omron.co.jp/data_pdf/cat/g7eb_ds_j_1_7.pdf
+$ENDCMP
+#
+#End Doc Library
