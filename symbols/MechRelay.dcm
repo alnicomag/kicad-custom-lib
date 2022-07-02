@@ -5,4 +5,9 @@ D Omron G7EB relay, SPST-NO, 100A
 F https://www.fa.omron.co.jp/data_pdf/cat/g7eb_ds_j_1_7.pdf
 $ENDCMP
 #
+$CMP G9KA
+D Omron G9KA relay, SPST-NO, 200A
+F https://www.fa.omron.co.jp/data_pdf/cat/g7eb_ds_j_1_7.pdf
+$ENDCMP
+#
 #End Doc Library
